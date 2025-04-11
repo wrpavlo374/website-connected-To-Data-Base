@@ -1,0 +1,16 @@
+body {
+    background-color: powderblue;
+    text-align: center;
+}
+h1 {
+    color: black;
+    text-align: center;
+}
+p {
+    color: pink;
+    text-align: center;
+}
+.question{
+    color: darkcyan;
+    text-align: center;
+}
